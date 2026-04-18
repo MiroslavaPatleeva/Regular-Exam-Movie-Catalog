@@ -63,6 +63,7 @@ namespace RegularExamMovieCatalog
             }
             
         }
+        /*Tests*/
         [Order(1)]
         [Test]
         public void CreateNewMovieWithRequiredFields_ShouldReturnSuccess()
